@@ -1,0 +1,3 @@
+/home/denisa/Desktop/Tema1/build/CMakeFiles/rebuild_cache.dir
+/home/denisa/Desktop/Tema1/build/CMakeFiles/edit_cache.dir
+/home/denisa/Desktop/Tema1/build/CMakeFiles/Tema1.dir
